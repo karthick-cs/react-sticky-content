@@ -18,3 +18,5 @@ In the project directory, you can run:
 
 ## License
 This code is released under the MIT License. See LICENSE.md for more information.
+## Acknowledgements
+This project was inspired by various examples of sticky sidebar implementations found in web development communities. Special thanks to the React community for providing an excellent framework for building user interfaces.
